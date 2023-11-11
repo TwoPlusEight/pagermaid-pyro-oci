@@ -22,7 +22,7 @@
 ---
 ### 安装
 #### 1. 安装Pagermaid-pyro
-**如您从未安装过使用过且注册时间在2022年之后, 登录Pagermaid-pyro将可能被立即封号**
+**如您从未安装过使用过且注册时间在2022年之后, 登录Pagermaid-pyro将可能被立即封号**  
 安装步骤可以参考[PGM-Pyro官方](https://xtaolabs.com/#/?id=%e7%ae%80%e4%bb%8b)的文档进行安装, 此处不再追述  
 >**安装后请同时安装python-oci**,安装命令: `pip install oci`
 
