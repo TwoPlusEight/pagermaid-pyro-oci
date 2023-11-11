@@ -49,6 +49,9 @@
 将以下内容更改为自己配置文件的路径, 配置文件的名称, 查询时激活本项目文件的命令  
 ![edit_file](https://img10.360buyimg.com/babel/jfs/t20251111/192515/32/40567/23677/654fb13eF110c30cc/7ba28deadffeb817.jpg)
 
+修改完成后将文件上传至第一步存放pagermaid文件夹内的plugins文件夹  
+即`你安装pagermaid的文件夹/plugins/`
+
 #### 4. 重载pagermaid
 在聊天内输入`,reload`即可刷新模块, 输入`,help`即可找到默认的命令或你修改后的命令名称
 
