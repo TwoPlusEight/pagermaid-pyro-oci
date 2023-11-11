@@ -9,10 +9,10 @@
 *(没有全区号或升级号不清楚是否能够统计到其他区域的实例流量)*
 
 ### 食用方法
-默认情况下在聊天内发送`,obdt`即可查看本月出站流量
-命令列表:
-,obdt last/l/previous/p 获取上月出站流量
-,obdt this/current/t/c
+默认情况下在聊天内发送`,obdt`即可查看本月出站流量  
+命令列表:  
+,obdt last/l/previous/p 获取上月出站流量  
+,obdt this/current/t/c  
 
 ### 限制  
 
