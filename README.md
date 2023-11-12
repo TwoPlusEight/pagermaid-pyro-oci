@@ -11,8 +11,8 @@
 ### 食用方法
 默认情况下在聊天内发送`,obdt`即可查看本月出站流量  
 命令列表:  
-,obdt last/l/previous/p 获取上月出站流量  
-,obdt this/current/t/c  
+`,obdt last/l/previous/p` 获取上月出站流量  
+`,obdt this/current/t/c` 获取本月月出站流量
 
 ### 限制  
 
