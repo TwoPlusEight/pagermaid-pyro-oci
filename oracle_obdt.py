@@ -1,11 +1,10 @@
-import oci
 from pyrogram import Client
 from pagermaid.listener import listener
 from pagermaid.utils import Message,pip_install
 from datetime import datetime, timedelta
 
 pip_install("oci")
-
+import oci
 # 配置文件路径
 path_to_config = r'./plugins/configs/seoul.conf'
 # 配置文件[]内的"标题"
