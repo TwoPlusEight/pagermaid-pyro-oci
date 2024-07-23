@@ -1,5 +1,7 @@
 ## 甲骨文云流量信息查看
 
+类似功能的程序已制成网页, 具体请访问 [TwoPlusEight/OracleOutboundStatus](https://github.com/TwoPlusEight/OracleOutboundStatus)
+
 ---
 ### 作用
 配合Pagermaid人形, 便捷查看甲骨文云实例对应的网卡出站流量, 或向大🔥展示你的成绩(
